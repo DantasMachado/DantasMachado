@@ -1,5 +1,5 @@
 - 👋 Olá, sou o @DantasMachado (Antonio Igor Dantas Machado)
-- 👋 Atuação como Especialista em Telecomunicações Redes/IT
+- 👋 Atuação como Especialista em Redes de Telecomunicações
 - 👋 Em breve vou postar alguns dos meus projetos para que possam facilitar seu projeto e os meus mesmo.
 
 <!---
